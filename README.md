@@ -1,7 +1,9 @@
 streetview-panorama-demo
 ========================
 
-A demonstration of the Google Maps iOS SDK GMSPanoramaView with custom overlay elements
+A demonstration of the [Google Maps iOS SDK](https://developers.google.com/maps/documentation/ios/) [GMSPanoramaView](https://developers.google.com/maps/documentation/ios/reference/interface_g_m_s_panorama_view) with custom overlay elements
+
+This is the sample project and source code for the techniques demonstrated in the ["Sun Surveyor shines with Street View" post](http://googlegeodevelopers.blogspot.com/2013/09/sun-surveyor-shines-with-street-view.html) on the [Google Geo Developers Blog](http://googlegeodevelopers.blogspot.com/2013/09/sun-surveyor-shines-with-street-view.html) and [Google Developers Blog](http://googledevelopers.blogspot.com/2013/09/sun-surveyor-shines-with-street-view.html).
 
 Getting Started:
 
